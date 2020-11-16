@@ -4,4 +4,8 @@ jspm_packages
 
 # Serverless directories
 .serverless
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_STORE
+>>>>>>> 3bccda7417ca5c7deef24c4e7a107e66dd78f401
