@@ -41,6 +41,6 @@ functions:
 
 At the end of the deployment, the url of our service will be displayed. I've tested it using postman, as shown in the image.
 
-![https://res.cloudinary.com/practicaldev/image/fetch/s--cA5q2YHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/dwhaxx0cxvtkny1h1ub6.png]
+![postman request](https://res.cloudinary.com/practicaldev/image/fetch/s--cA5q2YHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/dwhaxx0cxvtkny1h1ub6.png)
 
 If the image uploading was successful, the service will return a JSON, with the information of the processed image, such as the key, the name, the url of the original file and the thumbnail.
